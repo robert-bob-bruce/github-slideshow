@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+###### Using GitHub Markdown Header Style <h6>
 Use the left arrow to go back!
